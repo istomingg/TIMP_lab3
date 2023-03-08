@@ -67,3 +67,6 @@ mkdir build
 Генерируем: cmake ../lab03/solver_application
 Билдим cmake --build . --config Release
 
+<img width="856" alt="image" src="https://user-images.githubusercontent.com/126329578/223852404-aa915bea-e672-4277-9f91-2f2978832cbf.png">
+
+
