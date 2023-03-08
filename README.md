@@ -13,9 +13,7 @@
 
 С помощью редактора nano откроем файл (nano CMakeLists.txt) и произведем изменения
 
-<img width="582" alt="image" src="https://user-images.githubusercontent.com/126329578/223754386-12f90903-754e-4d76-bf94-5f4f929beff2.png">
-
-
+<img width="1053" alt="image" src="https://user-images.githubusercontent.com/126329578/223755716-353f43f2-80c1-44dd-ac5f-979d60daec73.png">
 
 **Задание 2**
 
