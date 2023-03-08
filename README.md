@@ -14,7 +14,13 @@
 
 С помощью редактора nano откроем файл (nano CMakeLists.txt) и произведем изменения
 
-<img width="733" alt="image" src="https://user-images.githubusercontent.com/126329578/223779445-a8a54736-e658-4a1d-889b-c48356309635.png">
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/126329578/223843490-ef7c2865-d9d4-4857-90be-03b96516585a.png">
+
+Сделаем отдельную папку для build
+
+mkdir build
+Генерируем: cmake ../lab03/formatter_lib
+Билдим cmake --build . --config Release
 
 **Задание 2**
 
@@ -24,7 +30,11 @@
 
 Откроем файл в редакторе nano (nano CMakeLists.txt) и произведем изменения
 
-<img width="729" alt="image" src="https://user-images.githubusercontent.com/126329578/223782117-330ee69c-b653-4988-81aa-d3a48c158740.png">
+<img width="527" alt="image" src="https://user-images.githubusercontent.com/126329578/223844030-edca4d53-45a8-4e28-affd-5f56b82faa16.png">
+
+mkdir build
+Генерируем: cmake ../lab03/formatter_ex_lib
+Билдим cmake --build . --config Release
 
 **Задание 3**
 
@@ -36,7 +46,12 @@
 
 Откроем файл CMakeLists и внесем изменения
 
-<img width="776" alt="image" src="https://user-images.githubusercontent.com/126329578/223793112-87975298-d89a-46f4-bb85-cfb8b4690ab1.png">
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/126329578/223844121-45eecf8d-684d-448d-a2a8-a0d59cf1fed3.png">
+
+mkdir build
+Генерируем: cmake ../lab03/hello_world-application
+Билдим cmake --build . --config Release
+
 
 **Для Solver**
 
@@ -46,7 +61,8 @@
 
 Откроем файл и внесем изменения
 
-<img width="757" alt="image" src="https://user-images.githubusercontent.com/126329578/223798392-0b64eb61-7c9b-4f02-ad47-40dc58c7342f.png">
 
-
+mkdir build
+Генерируем: cmake ../lab03/solver_application
+Билдим cmake --build . --config Release
 
