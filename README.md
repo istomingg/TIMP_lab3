@@ -36,6 +36,17 @@
 
 Откроем файл CMakeLists и внесем изменения
 
-<img width="861" alt="image" src="https://user-images.githubusercontent.com/126329578/223791426-1cd0cb56-ac8f-4ec1-af00-c79edfbda5e5.png">
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/126329578/223793112-87975298-d89a-46f4-bb85-cfb8b4690ab1.png">
+
+**Для Solver**
+
+Перейдем в директорию cd solver_application
+
+Создадим файл CMakeLists.txt (> CMakeLists.txt)
+
+Откроем файл и внесем изменения
+
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/126329578/223798392-0b64eb61-7c9b-4f02-ad47-40dc58c7342f.png">
+
 
 
