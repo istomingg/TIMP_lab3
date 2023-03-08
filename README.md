@@ -30,4 +30,12 @@
 
 **Для Hello World!**
 
+Перейдем в директорию cd hello_world_application
+
+Создадим файл CMakeLists.txt (> CMakeLists.txt)
+
+Откроем файл CMakeLists и внесем изменения
+
+<img width="861" alt="image" src="https://user-images.githubusercontent.com/126329578/223791426-1cd0cb56-ac8f-4ec1-af00-c79edfbda5e5.png">
+
 
