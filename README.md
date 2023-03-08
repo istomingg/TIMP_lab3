@@ -24,7 +24,7 @@
 
 Откроем файл в редакторе nano (nano CMakeLists.txt) и произведем изменения
 
-
+<img width="729" alt="image" src="https://user-images.githubusercontent.com/126329578/223782117-330ee69c-b653-4988-81aa-d3a48c158740.png">
 
 **Задание 3**
 
