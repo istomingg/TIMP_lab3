@@ -61,6 +61,7 @@ mkdir build
 
 Откроем файл и внесем изменения
 
+<img width="658" alt="image" src="https://user-images.githubusercontent.com/126329578/223852136-299a6678-c569-4707-b30b-e6841770e09b.png">
 
 mkdir build
 Генерируем: cmake ../lab03/solver_application
